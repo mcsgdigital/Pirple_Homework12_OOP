@@ -20,6 +20,8 @@ Benefits: Reduce complexity and isolate impact of changes.
 4. Polymorphism:  allows methods to behave differently depending of the type of object. Multiple ways of doing things. Overriding (change mechanism of function) and overloading (change argument used to perform something).
 Benefits: Flexibility through polymorphism. Refactor switch/case statements.
 
+![alt text](https://github.com/mcsgdigital/Pirple_Homework12_OOP/blob/8e0e45e0d39eaffd8b80989521805ee13219dddd/homework12_oop.png?raw=true)
+
 <br /><br />
 ### Describe the application flow from the user's point of view.
 
