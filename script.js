@@ -85,7 +85,6 @@ function setup(){
   }
 
   const animal = (selection) => {
-    // [abstraction] using Object functions
     const detailsName = Object.keys(selection);
     const detailsValue = Object.values(selection);
     const detailsEntries = Object.entries(selection);
